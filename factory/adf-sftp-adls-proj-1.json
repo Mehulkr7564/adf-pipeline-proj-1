@@ -1,0 +1,15 @@
+{
+	"name": "adf-sftp-adls-proj-1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1173c257-7d45-4afb-b23b-12611012fd4a",
+		"tenantId": "b1e05e2c-fd2d-4b70-bb89-aeaac9b1841e"
+	}
+}
